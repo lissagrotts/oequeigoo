@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooroachouc.machinepy.com/sitemap.xml
